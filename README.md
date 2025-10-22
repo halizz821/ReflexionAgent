@@ -11,6 +11,7 @@ This project implements a Reflexion Agent using the following tools:
 
 ## Definition
 A **Reflexion Agent** is an AI system designed to iteratively reflect on its own outputs, analyze mistakes or improvements, and update its behavior or responses accordingly. It uses self-feedback to refine decisions and enhance performance over time.
+![Reflexion Agent](output.png)
 
 ## How to Run
 The agent is currently **command-line only** (no graphical interface).
