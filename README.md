@@ -7,7 +7,9 @@ This project implements a Reflexion Agent using the following tools:
 - **OpenAI LLM** for natural language understanding and generation
 - **TavilySearch** for searching information on the internet
 
-> ⚠️ Make sure to update your API keys in the `.env` file before running the agent.
+> ⚠️ Make sure to creat a `.env` file including the following API keysbefore running the agent.
+> TAVILY_API_KEY = " paste your key here "
+> OPENAI_API_KEY = " paste your key here "
 
 ## Definition
 A **Reflexion Agent** is an AI system designed to iteratively reflect on its own outputs, analyze mistakes or improvements, and update its behavior or responses accordingly. It uses self-feedback to refine decisions and enhance performance over time.
