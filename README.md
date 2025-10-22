@@ -8,7 +8,9 @@ This project implements a Reflexion Agent using the following tools:
 - **TavilySearch** for searching information on the internet
 
 > ⚠️ Make sure to creat a `.env` file including the following API keysbefore running the agent.
+> 
 > TAVILY_API_KEY = " paste your key here "
+> 
 > OPENAI_API_KEY = " paste your key here "
 
 ## Definition
