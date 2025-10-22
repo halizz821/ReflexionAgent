@@ -1,0 +1,17 @@
+[project]
+name = "Hamed"
+version = "0.1.0"
+description = "Reflexion Agent"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "grandalf>=0.8",
+    "langchain>=0.3.27",
+    "langchain-community>=0.3.31",
+    "langchain-google-genai>=2.1.12",
+    "langchain-openai>=0.3.35",
+    "langchain-tavily>=0.2.12",
+    "langgraph>=0.6.10",
+    "notebook>=7.4.7",
+    "python-dotenv>=1.1.1",
+]
